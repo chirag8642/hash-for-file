@@ -1,12 +1,16 @@
 {
   "name": "hash-for-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this module will do hash of file ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["md5", "hash", "md5 - hash - file", "md-5"],
-  "author": "Chirag Patel",
+  "homepage": "https://github.com/chirag8642/hash-for-file/blob/master/README.md",
+  "author": {
+    "name": "Chirag Patel",
+    "email": "patel.chiragme@gmail.com"
+  },
   "license": "MIT"
 }
