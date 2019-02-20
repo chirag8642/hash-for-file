@@ -1,0 +1,12 @@
+{
+  "name": "hash-for-file",
+  "version": "1.0.0",
+  "description": "this module will do hash of file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["md5", "hash", "md5 - hash - file", "md-5"],
+  "author": "Chirag Patel",
+  "license": "MIT"
+}
